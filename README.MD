@@ -1,6 +1,8 @@
 # Publications and articles
 
-Here you can find pdf versions of all my publications and articles published from 2017 to 2021
+Here you can find pdf versions of all my publications and articles published from 2017 to 2021.
+Majority of publications are in Russian. 
+The journal names and article topics are translated to English to give the general idea.
 
 ### How to access files
 
