@@ -7,7 +7,7 @@ The journal names and article topics are translated to English to give the gener
 ### How to access files
 
 In order to read publications, open a folder and click on the file.
-Note: Relod might be required to download an article
+Note: Reload might be required to download an article
 
 ### List of all publications in chronological order
 
